@@ -1,0 +1,58 @@
+nav.navbar {
+    font-family: monospace;
+}
+
+a.navbar-brand {
+    font-size: 30px;
+}
+
+ul.nav {
+    font-size: 20px;
+}
+
+ol.breadcrumb {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button._jzgri {
+    border: 0px;
+    background-color: lightpink;
+}
+
+img._g5pg0 {
+    border-radius: 50px;
+    border-style: white;
+    border-color: powderblue;
+    border-width: 2px;
+    outline-color: rgba(255, 0, 0, 0.4);
+    outline-style: double;
+}
+
+div.alert {
+    border-radius: 30px;
+}
+
+div.list-group {
+    outline-style: dotted;
+    outline-color: hotpink;
+    font-weight: bold;
+}
+
+div.bottom {
+    font-family: fantasy;
+    width: 100%;
+    float: left;
+    padding: 5px;
+    border: 10px #F8F8FF;
+    text-align: right;
+    background-color: #F0F8FF;
+    text-decoration: underline;
+    color: #6495ED;
+}
+
+pull-right {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
